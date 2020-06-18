@@ -10,7 +10,7 @@ sidebar:
     name: Carolina Vivet
     tagline: Software tester @
     avatar: caro.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-    company-logo: trivago.jpeg
+    companylogo: trivago.jpeg
 
     # Sidebar links
     email: carolinavivet@gmail.com
